@@ -1,4 +1,3 @@
-# 4cod2848ing: utf-8
 import pilasengine
 
 pilas = pilasengine.iniciar()
